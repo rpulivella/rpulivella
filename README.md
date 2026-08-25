@@ -12,7 +12,7 @@ The harness types the code. I author the architecture, the semantics, and every 
 
 Before that I co-founded Lighticians and invented the technology that became Slyyd, as named lead inventor on US Patent 9,961,738 B2. Creamsource acquired it in 2022 and brought me on to lead product, technology, and design. Professionals in 60+ countries now use it on productions at Netflix, Apple, Amazon, Hulu, and Warner Bros Discovery.
 
-For two decades I was a gaffer and lighting director on productions such as The Crowded Room, You, Can You Ever Forgive Me?, Younger, and Pitch Perfect, running departments of 20 to 50 under fixed deadlines.
+For two decades I was a gaffer and lighting director on productions such as *The Crowded Room*, *You*, *Can You Ever Forgive Me?*, *Younger*, and *Pitch Perfect*, running departments of 20 to 50 under fixed deadlines.
 
 I am a compulsive builder, continuously experimenting, and happy about it, especially when working outside of my comfort zones.
 
