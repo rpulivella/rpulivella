@@ -11,10 +11,10 @@ I am a compulsive builder, continuously experimenting, and happy about it, espec
 Most of what I build ships inside a product or stays private, so the graph below carries more of the story than this repository list does. What lands here is the occasional tool that proved useful enough to publish.
 
 ### Public
-* [`fastlane-plugin-badger`](https://github.com/rpulivella/fastlane-plugin-badger) &middot; version and build badges composited onto iOS app icons
+* [`fastlane-plugin-badger`](https://github.com/rpulivella/fastlane-plugin-badger) &squf; Version and build badges composited onto iOS app icons
 
 ### Links
-* [richardulivella.com](https://richardulivella.com) The full story, the case studies, and more about me
-* [richardulivella.com/work/slyyd](https://richardulivella.com/work/slyyd) the Slyyd case study
-* [LinkedIn](https://www.linkedin.com/in/richardulivella/) Professional profile
-* [IMDb](https://www.imdb.com/name/nm1234703/) Film career
+* [RichardUlivella.com](https://RichardUlivella.com) &squf; The full story, the case studies, and more about me
+* [RichardUlivella.com/work/slyyd](https://RichardUlivella.com/work/slyyd) &squf; The Slyyd case study
+* [LinkedIn](https://www.linkedin.com/in/richardulivella/) &squf; Professional profile
+* [IMDb](https://www.imdb.com/name/nm1234703/) &squf; Film career
