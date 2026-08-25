@@ -1,0 +1,4 @@
+# macOS drops these into any folder Finder opens, assets/ included.
+# rules.dropboxignore stops them SYNCING; only this stops git tracking them.
+.DS_Store
+._*
